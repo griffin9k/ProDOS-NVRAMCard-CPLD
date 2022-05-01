@@ -9,8 +9,8 @@ Here is the BOM listing:
 |Xilinx XC9572XL-VQ44|CPLD|1|    
 |SST 39SF040|Flash ROM|1|    
 |74HC133/74LS133| 13-Input NAND Gate|1|  
-|AMS1117-3.3|Voltage regulator|1|  
-|SMD 104 0805|Capacitor|4|  
+|AMS1117-3.3|Voltage Regulator|1|  
+|SMD 104 0805|Ceramic Capacitor|4|  
 |SMD 10uF 3216|Tantalum Capacitor|1|  
 |SMD 33uF 3528|Tantalum Capacitor|1|  
 |DIP32 Socket|(optional)|1|  
