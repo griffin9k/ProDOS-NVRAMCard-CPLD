@@ -13,6 +13,8 @@ SMD 10uF 3216 Tantalum Capacitor x 1
 SMD 33uF 3528 Tantalum Capacitor x 1  
 DIP32 Socket x 1(optional)  
 DIP16 Socker x 1(optional)  
+
+Tools:  
 Xilinx JTAG Programmer  
 Universal Programmer  
 
