@@ -4,15 +4,17 @@ CPLD revision of Ralle Palaveev's ProDOS NVRAM Drive 512K, based on the hardware
 The schematic is provided, you can make your own with any EDA software you like, or send the GERBER files to PCB service directly, and also Xilinx ISE needed to synthesis the verilog source code and program the CPLD by a JTAG Programmer.
 
 Here is the BOM listing:  
-Xilinx XC9572XL-VQ44 CPLD x 1  
-SST 39SF040 Flash ROM x 1  
-74HC133/74LS133 13-Input NAND Gate x 1  
-AMS1117-3.3 Voltage regulator x1  
-SMD 104 0805 Capacitor x 4  
-SMD 10uF 3216 Tantalum Capacitor x 1  
-SMD 33uF 3528 Tantalum Capacitor x 1  
-DIP32 Socket x 1(optional)  
-DIP16 Socker x 1(optional)  
+|Item|Descrition|Qty|  
+|---|---|---|  
+|Xilinx XC9572XL-VQ44|CPLD|1|    
+|SST 39SF040|Flash ROM|1|    
+|74HC133/74LS133| 13-Input NAND Gate|1|  
+|AMS1117-3.3|Voltage regulator|1|  
+|SMD 104 0805|Capacitor|4|  
+|SMD 10uF 3216|Tantalum Capacitor|1|  
+|SMD 33uF 3528|Tantalum Capacitor|1|  
+|DIP32 Socket|(optional)|1|  
+|DIP16 Socket|(optional)|1|  
 
 Tools:  
 Xilinx JTAG Programmer  
